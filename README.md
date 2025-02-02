@@ -43,7 +43,7 @@ To run **Bird Hunter** on your local machine:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/bird-hunter.git
+    git clone https://github.com/MoeinFaghih/huntGame.git
     cd bird-hunter
     ```
 2. Compile the game with:
